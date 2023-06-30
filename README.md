@@ -1,2 +1,2 @@
 # PolyScales
-Exploring polyrhythms in musical scales
+Exploring polyrhythms using musical scales
